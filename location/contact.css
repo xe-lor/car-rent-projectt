@@ -1,0 +1,17 @@
+nav{
+	background: linear-gradient(135deg,rgba(53, 154, 190, 0.494),rgba(0, 82, 91, 0.374));
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+}
+li:hover{
+    border-bottom: solid 2px white;
+}
+body{
+	background-color: rgb(40, 78, 99);
+}
+textarea:hover{
+	border: solid 2px rgb(54, 184, 255);
+}
+input:hover{
+    border: solid 2px rgb(54, 184, 255);
+}
